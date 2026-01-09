@@ -1,6 +1,6 @@
 # WHO Global Health Dashboard — Nuxt 4 Demo
 
-![CI](https://github.com/gustavoernandes86/portifolio/who-nuxt-demo/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/gustavoernandes86/who-nuxt-demo/actions/workflows/ci.yml/badge.svg)
 
 A production-ready demo application built with **Nuxt 4 (Vue 3 + SSR)**, showcasing secure server-side API integration with the **WHO Global Health Observatory**, caching strategies, and automated CI/CD deployment.
 
@@ -78,7 +78,7 @@ npm install -g pnpm
 Clone and run
 bash
 Copiar código
-git clone https://github.com/gustavoernandes86/portifolio/who-nuxt-demo.git
+git clone https://github.com/gustavoernandes86/who-nuxt-demo.git
 cd who-nuxt-demo
 pnpm install
 pnpm dev
